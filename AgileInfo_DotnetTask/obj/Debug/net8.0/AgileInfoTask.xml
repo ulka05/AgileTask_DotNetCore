@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AgileInfoTask</name>
+    </assembly>
+    <members>
+        <member name="T:AgileInfoTask.Controllers.LoginController">
+            <summary>
+            Task 7 we used to here to show methods,reponse,parameters etc.
+            </summary>
+        </member>
+        <member name="T:AgileInfoTask.Controllers.ProductController">
+            <summary>
+            Task 7 we used to here to show methods,reponse,parameters etc.
+            </summary>
+        </member>
+    </members>
+</doc>
